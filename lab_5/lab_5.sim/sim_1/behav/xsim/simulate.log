@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Test has been started
+
+Test has been finished
+Number of errors:           0
+
+$finish called at time : 211665 ns : File "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 139

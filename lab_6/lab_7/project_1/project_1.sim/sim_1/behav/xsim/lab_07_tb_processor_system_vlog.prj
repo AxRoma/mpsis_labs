@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../../rtl/alu_opcodes_pkg.sv" \
+"../../../../../rtl/alu.sv" \
+"../../../../../rtl/csr_pkg.sv" \
+"../../../../../rtl/memory_pkg.sv" \
+"../../../../../rtl/data_memory.sv" \
+"../../../../../rtl/decoder_pkg.sv" \
+"../../../../../rtl/decoder.sv" \
+"../../../../../rtl/fulladder.sv" \
+"../../../../../rtl/fulladder32.sv" \
+"../../../../../rtl/fulladder4.sv" \
+"../../../../../rtl/instruction_memory.sv" \
+"../../../../../rtl/processor_core.sv" \
+"../../../../../rtl/processor_system.sv" \
+"../../../../../rtl/register_file.sv" \
+"../../../../../tb/lab_07.tb_processor_system.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

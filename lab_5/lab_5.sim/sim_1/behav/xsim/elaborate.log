@@ -1,0 +1,38 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot lab_05_tb_decoder_behav xil_defaultlib.lab_05_tb_decoder xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv" Line 11. Module decoder_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/rtl/alu_opcodes_pkg.sv" Line 11. Module alu_opcodes_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/rtl/csr_pkg.sv" Line 11. Module csr_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 12. Module lab_05_tb_decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv" Line 1. Module decoder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 1056. Module decoder_ref doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 856. Module csr_we_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 896. Module mem_req_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 936. Module mem_we_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 816. Module gpr_we_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 976. Module branch_table doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" Line 1016. Module jalr_table doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.decoder_pkg
+Compiling package xil_defaultlib.alu_opcodes_pkg
+Compiling package xil_defaultlib.csr_pkg
+Compiling package std.std
+Compiling module xil_defaultlib.decoder
+Compiling module xil_defaultlib.csr_we_table
+Compiling module xil_defaultlib.mem_req_table
+Compiling module xil_defaultlib.mem_we_table
+Compiling module xil_defaultlib.gpr_we_table
+Compiling module xil_defaultlib.branch_table
+Compiling module xil_defaultlib.jalr_table
+Compiling module xil_defaultlib.decoder_ref
+Compiling module xil_defaultlib.lab_05_tb_decoder
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot lab_05_tb_decoder_behav

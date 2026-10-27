@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Vivado_Projects/MPSiS/lab_5/lab_5.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/Vivado_Projects/MPSiS/lab_5/rtl/alu_opcodes_pkg.sv,1777727573,systemVerilog,C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv;C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv,C:/Vivado_Projects/MPSiS/lab_5/rtl/csr_pkg.sv,,alu_opcodes_pkg,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_5/rtl/csr_pkg.sv,1777914982,systemVerilog,C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv;C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv,C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv,,csr_pkg,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv,1777915902,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv,,decoder,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv,1777914982,systemVerilog,C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv;C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv,C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv,,decoder_pkg,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+,,,,,,branch_table;csr_we_table;decoder_ref;gpr_we_table;jalr_table;lab_05_tb_decoder;mem_req_table;mem_we_table,,,,,,,,

@@ -1,0 +1,52 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat May 23 21:57:01 2026
+# Process ID         : 13000
+# Current directory  : C:/Vivado_Projects/MPSiS/lab_4
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13680 C:\Vivado_Projects\MPSiS\lab_4\lab_4.xpr
+# Log file           : C:/Vivado_Projects/MPSiS/lab_4/vivado.log
+# Journal file       : C:/Vivado_Projects/MPSiS/lab_4\vivado.jou
+# Running On         : HOME-PC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 12653 MB
+# Swap memory        : 5637 MB
+# Total Virtual      : 18290 MB
+# Available Virtual  : 8664 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Vivado_Projects/MPSiS/lab_4/lab_4.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg
+source lab_04_tb_CYBERcobra.tcl
+add_wave /CYBERcobra/rfile/rf_mem[3]   # x3 - это и есть твоё a
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg
+source lab_04_tb_CYBERcobra.tcl
+run all
+remove_forces { {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[22]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[23]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[24]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[25]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[26]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[27]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[28]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[29]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[30]} {/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[31]} }
+close_sim
+launch_simulation
+open_wave_config C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg
+source lab_04_tb_CYBERcobra.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg
+source lab_04_tb_CYBERcobra.tcl
+save_wave_config {C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg
+source lab_04_tb_CYBERcobra.tcl
+save_wave_config {C:/Vivado_Projects/MPSiS/lab_4/lab_04_tb_CYBERcobra_behav.wcfg}
+close_sim

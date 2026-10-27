@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Test has been started
+
+Test has been finished
+Number of errors:           0
+
+$finish called at time : 102575 ns : File "C:/Vivado_Projects/MPSiS/project_1/tb/lab_01.tb_fulladder32.sv" Line 38

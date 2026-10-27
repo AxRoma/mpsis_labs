@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+
+Test has been started.
+
+ The test is over 
+ See the internal signals of the module on the waveform 
+
+$finish called at time : 840 ns : File "C:/Vivado_Projects/MPSiS/lab_6/lab_9/tb/lab_07.tb_processor_system.sv" Line 30

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_5/rtl/alu_opcodes_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_5/rtl/csr_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_5/rtl/decoder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_5/tb/lab_05.tb_decoder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab_05_tb_decoder
+INFO: [VRFC 10-311] analyzing module gpr_we_table
+INFO: [VRFC 10-311] analyzing module csr_we_table
+INFO: [VRFC 10-311] analyzing module mem_req_table
+INFO: [VRFC 10-311] analyzing module mem_we_table
+INFO: [VRFC 10-311] analyzing module branch_table
+INFO: [VRFC 10-311] analyzing module jalr_table
+INFO: [VRFC 10-311] analyzing module decoder_ref

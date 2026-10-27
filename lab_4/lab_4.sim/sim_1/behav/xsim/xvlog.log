@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/alu_opcodes_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/cyber_cobra.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CYBERcobra
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/fulladder32.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder32
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/fulladder4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder4
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [C:/Vivado_Projects/MPSiS/lab_4/rtl/fulladder4.sv:43]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/memory_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/instruction_memory.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instr_mem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/rtl/register_file.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_4/tb/lab_04.tb_cybercobra.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab_04_tb_CYBERcobra
+WARNING: [VRFC 10-2938] 'OUT' is already implicitly declared on line 17 [C:/Vivado_Projects/MPSiS/lab_4/tb/lab_04.tb_cybercobra.sv:20]
+WARNING: [VRFC 10-2938] 'clk' is already implicitly declared on line 14 [C:/Vivado_Projects/MPSiS/lab_4/tb/lab_04.tb_cybercobra.sv:21]
+WARNING: [VRFC 10-2938] 'rstn' is already implicitly declared on line 15 [C:/Vivado_Projects/MPSiS/lab_4/tb/lab_04.tb_cybercobra.sv:22]
+WARNING: [VRFC 10-2938] 'sw_i' is already implicitly declared on line 16 [C:/Vivado_Projects/MPSiS/lab_4/tb/lab_04.tb_cybercobra.sv:23]

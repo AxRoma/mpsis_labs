@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Vivado_Projects/MPSiS/lab_3/lab_3.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/alu.sv,1777728270,systemVerilog,,,,alu,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/alu_opcodes_pkg.sv,1777727573,systemVerilog,C:/Vivado_Projects/MPSiS/lab_3/rtl/alu.sv,C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder.sv,,alu_opcodes_pkg,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder.sv,1777727227,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder32.sv,,fulladder,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder32.sv,1777727248,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder4.sv,,fulladder32,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/fulladder4.sv,1777727240,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_3/rtl/alu.sv,,fulladder4,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/rtl/register_file.sv,1777728496,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_3/tb/lab_03.tb_register_file.sv,,register_file,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_3/tb/lab_03.tb_register_file.sv,1777728529,systemVerilog,,,,lab_03_tb_register_file;register_file_ref,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

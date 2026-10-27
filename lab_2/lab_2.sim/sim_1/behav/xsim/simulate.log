@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Test has been started
+
+Test has been finished
+Number of errors:           0
+
+$finish called at time : 86995 ns : File "C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv" Line 65

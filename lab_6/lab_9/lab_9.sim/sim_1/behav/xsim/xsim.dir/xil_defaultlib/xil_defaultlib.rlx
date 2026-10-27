@@ -1,0 +1,21 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/lab_9.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/alu.sv,1777728270,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/csr_pkg.sv,,alu,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/alu_opcodes_pkg.sv,1777727573,systemVerilog,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/alu.sv;C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder_pkg.sv,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/alu.sv,,alu_opcodes_pkg,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/csr_pkg.sv,1779616910,systemVerilog,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder_pkg.sv,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/memory_pkg.sv,,csr_pkg,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/data_memory.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder_pkg.sv,,data_mem,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder.sv,,decoder,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder_pkg.sv,1779616910,systemVerilog,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder.sv;C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/load_store_unit.sv;C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/processor_core.sv,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/decoder.sv,,decoder_pkg,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder.sv,1777727227,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder32.sv,,fulladder,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder32.sv,1777727248,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder4.sv,,fulladder32,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/fulladder4.sv,1777727240,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/instruction_memory.sv,,fulladder4,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/instruction_memory.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/load_store_unit.sv,,instr_mem,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/load_store_unit.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/processor_core.sv,,lsu,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/memory_pkg.sv,1779616910,systemVerilog,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/data_memory.sv;C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/instruction_memory.sv,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/data_memory.sv,,memory_pkg,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/processor_core.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/processor_system_9lab.sv,,processor_core,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/processor_system_9lab.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/register_file.sv,,processor_system,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/rtl/register_file.sv,1779616910,systemVerilog,,C:/Vivado_Projects/MPSiS/lab_6/lab_9/tb/lab_07.tb_processor_system.sv,,register_file,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/lab_6/lab_9/tb/lab_07.tb_processor_system.sv,1779625085,systemVerilog,,,,lab_07_tb_processor_system,,uvm,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

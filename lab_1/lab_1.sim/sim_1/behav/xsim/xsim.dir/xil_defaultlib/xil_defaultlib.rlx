@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Vivado_Projects/MPSiS/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv,1777727227,systemVerilog,,C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder32.sv,,fulladder,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder32.sv,1777727248,systemVerilog,,C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv,,fulladder32,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv,1777727240,systemVerilog,,C:/Vivado_Projects/MPSiS/project_1/tb/lab_01.tb_fulladder32.sv,,fulladder4,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivado_Projects/MPSiS/project_1/tb/lab_01.tb_fulladder32.sv,1777727268,systemVerilog,,,,lab_01_tb_fulladder32,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

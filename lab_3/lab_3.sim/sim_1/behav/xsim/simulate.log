@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Test has been started
+
+Test has been finished
+Number of errors:           0
+
+$finish called at time : 1430 ns : File "C:/Vivado_Projects/MPSiS/lab_3/tb/lab_03.tb_register_file.sv" Line 180

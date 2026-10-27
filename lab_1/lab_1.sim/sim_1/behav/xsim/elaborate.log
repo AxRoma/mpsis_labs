@@ -1,0 +1,59 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot lab_01_tb_fulladder32_behav xil_defaultlib.lab_01_tb_fulladder32 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/tb/lab_01.tb_fulladder32.sv" Line 12. Module lab_01_tb_fulladder32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder32.sv" Line 1. Module fulladder32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fulladder
+Compiling module xil_defaultlib.fulladder4
+Compiling module xil_defaultlib.fulladder32
+Compiling module xil_defaultlib.lab_01_tb_fulladder32
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot lab_01_tb_fulladder32_behav

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab_04_tb_CYBERcobra_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="alu_opcodes_pkg" />
+            <top_module name="glbl" />
+            <top_module name="lab_04_tb_CYBERcobra" />
+            <top_module name="memory_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,994 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,007 ps"></ZoomEndTime>
+      <Cursor1Time time="999,997 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="403"></NameColumnWidth>
+      <ValueColumnWidth column_width="166"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/OUT" type="array">
+      <obj_property name="ElementShortName">OUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/sw_i" type="array">
+      <obj_property name="ElementShortName">sw_i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw_i[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/program_counter" type="array">
+      <obj_property name="ElementShortName">program_counter[31:0]</obj_property>
+      <obj_property name="ObjectShortName">program_counter[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/alu_result" type="array">
+      <obj_property name="ElementShortName">alu_result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/flag" type="logic">
+      <obj_property name="ElementShortName">flag</obj_property>
+      <obj_property name="ObjectShortName">flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[0]" type="array">
+      <obj_property name="ElementShortName">[0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[1]" type="array">
+      <obj_property name="ElementShortName">[1][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[1][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[2]" type="array">
+      <obj_property name="ElementShortName">[2][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[2][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[3]" type="array">
+      <obj_property name="ElementShortName">[3][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[3][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[4]" type="array">
+      <obj_property name="ElementShortName">[4][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[4][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_04_tb_CYBERcobra/DUT/rfile/rf_mem[5]" type="array">
+      <obj_property name="ElementShortName">[5][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[5][31:0]</obj_property>
+   </wvobject>
+</wave_config>

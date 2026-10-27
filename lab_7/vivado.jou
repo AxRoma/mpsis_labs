@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed Jun  3 10:34:31 2026
+# Process ID         : 5560
+# Current directory  : C:/Vivado_Projects/MPSiS/lab_7
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent7076 C:\Vivado_Projects\MPSiS\lab_7\lab_7.xpr
+# Log file           : C:/Vivado_Projects/MPSiS/lab_7/vivado.log
+# Journal file       : C:/Vivado_Projects/MPSiS/lab_7\vivado.jou
+# Running On         : HOME-PC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 12653 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 17753 MB
+# Available Virtual  : 10584 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Vivado_Projects/MPSiS/lab_7/lab_7.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation

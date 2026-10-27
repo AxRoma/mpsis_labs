@@ -1,0 +1,74 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot lab_02_tb_alu_behav xil_defaultlib.lab_02_tb_alu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:113]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:123]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:149]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:158]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:167]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:177]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:196]
+WARNING: [VRFC 10-3597] non-void function 'randomize' called as a task without void casting [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:197]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/alu_opcodes_pkg.sv" Line 11. Module alu_opcodes_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv" Line 11. Module lab_02_tb_alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/alu.sv" Line 1. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder32.sv" Line 1. Module fulladder32 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" Line 1. Module fulladder4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" Line 1. Module fulladder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv" Line 254. Module alu_ref_default doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.alu_opcodes_pkg
+Compiling package std.std
+Compiling module xil_defaultlib.fulladder
+Compiling module xil_defaultlib.fulladder4
+Compiling module xil_defaultlib.fulladder32
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.alu_ref_default
+Compiling module xil_defaultlib.lab_02_tb_alu
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot lab_02_tb_alu_behav

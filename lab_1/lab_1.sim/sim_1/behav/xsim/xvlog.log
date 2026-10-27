@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder32.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder32
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder4
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [C:/Vivado_Projects/MPSiS/project_1/rtl/fulladder4.sv:43]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/project_1/tb/lab_01.tb_fulladder32.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab_01_tb_fulladder32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado_Projects/MPSiS/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

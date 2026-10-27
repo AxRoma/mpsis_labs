@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/rtl/alu_opcodes_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/rtl/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder32.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder32
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder4
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [C:/Vivado_Projects/MPSiS/lab_2/rtl/fulladder4.sv:43]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab_02_tb_alu
+WARNING: [VRFC 10-3824] variable 'flag_opcodes_1' must explicitly be declared as automatic or static [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:142]
+WARNING: [VRFC 10-3824] variable 'flag_opcodes_2' must explicitly be declared as automatic or static [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:143]
+WARNING: [VRFC 10-3824] variable 'flag_opcodes_3' must explicitly be declared as automatic or static [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:144]
+WARNING: [VRFC 10-3824] variable 'flag_opcodes_4' must explicitly be declared as automatic or static [C:/Vivado_Projects/MPSiS/lab_2/tb/lab_02.tb_alu.sv:145]
+INFO: [VRFC 10-311] analyzing module alu_ref

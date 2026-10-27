@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue May 26 18:00:21 2026
+# Process ID         : 16256
+# Current directory  : C:/Vivado_Projects/MPSiS/lab_6/lab_11/lab_11.runs/synth_1
+# Command line       : vivado.exe -log nexys_processor_system.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source nexys_processor_system.tcl
+# Log file           : C:/Vivado_Projects/MPSiS/lab_6/lab_11/lab_11.runs/synth_1/nexys_processor_system.vds
+# Journal file       : C:/Vivado_Projects/MPSiS/lab_6/lab_11/lab_11.runs/synth_1\vivado.jou
+# Running On         : HOME-PC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 12653 MB
+# Swap memory        : 5637 MB
+# Total Virtual      : 18290 MB
+# Available Virtual  : 5908 MB
+#-----------------------------------------------------------
+source nexys_processor_system.tcl -notrace
